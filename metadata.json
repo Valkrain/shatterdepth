@@ -1,0 +1,8 @@
+{
+  "name": "Shatterdepth",
+  "description": "A 2D side-scrolling platforming roguelite where every terrain pixel, structure, and decoration is physically destructible with crumbling wall physics and infinite procedural depths.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
